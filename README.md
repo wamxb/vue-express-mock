@@ -1,6 +1,6 @@
 # vue-express-mock
 
-> A Vue.js project
+> mock server test demo
 
 ## Build Setup
 
